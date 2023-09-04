@@ -6,6 +6,7 @@ m and b that minimize the error between the model and the data.
 
 y1= m*x1 + b
 
-![desmos-graph](desmos-graph.png)
+
+
 
 
