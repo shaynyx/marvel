@@ -8,5 +8,9 @@ y1= m*x1 + b
 
 
 
+![desmos-graph](https://github.com/shaynyx/marvel/assets/106089622/af5a78ec-f2db-45b5-9b61-96983d73ebf7)
 
 
+
+
+![desmos ](https://github.com/shaynyx/marvel/assets/106089622/54706c8b-699a-41ec-967d-8dde91ea8b95)
